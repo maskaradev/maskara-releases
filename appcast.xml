@@ -5,5 +5,14 @@
     <link>https://github.com/maskaradev/maskara-releases</link>
     <description>updates to the maskara app</description>
     <language>en</language>
+    <item>
+      <title>0.1.0</title>
+      <pubDate>Wed, 28 Oct 2026 07:25:20 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>build: re-sign Sparkle&#x27;s helpers with Developer ID so notarization accepts them</li><li>docs: a readme in maskara-ai&#x27;s style, with a picture of what the call sees</li><li>ci: check the release secrets on Linux before a release spends macOS minutes</li><li>feat: ship maskara as a notarized mac app that updates itself</li><li>feat: prototype screen-share masking on maskara-ai</li></ul>]]></description>
+      <enclosure url="https://github.com/maskaradev/maskara-releases/releases/download/v0.1.0/maskara-0.1.0.zip" type="application/octet-stream" sparkle:edSignature="4j3mcK4Gob8+4DPMDb99eaBxX7QCrSo2X8CvY1NVjOYibRhs/u5J1EUPN/LsqhRYHloG5n5iopQEPF8r2zEQAA==" length="25757155"/>
+    </item>
   </channel>
 </rss>
